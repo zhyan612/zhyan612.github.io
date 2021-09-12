@@ -28,19 +28,32 @@ Spider Solitaire There are daily challenges for you to complete and win trophies
 🌵 Tap to automatically choose the best move
  
 🌵 right or Left handed mode
+ 
 🌵 Undo freely
+ 
 🌵 Time, move,statistics
+ 
 🌵 Perfect Sound effect
+ 
 🌵 Unlimited and free hints
+ 
 🌵 Auto hint by Spider Solitaire 
+ 
 🌵 Play games any time
+ 
 🌵 Play offline. No WIFI required to play for free!
+ 
 🌵 More gameplays are waiting for you to explore...
+ 
 
 🌈<h><b>The Best FreeCell Game</h></b>
+ 
 🌹 Track Your Spider Solitaire Stats
+ 
 🌹Spider Solitaire is a fun, addictive smash hit
+ 
 🌹 Addictive, fun game levels that will keep you coming back
+ 
 🌹 Old school games with a modern feel
 
 🌹 What do users think of our FreeCell game?
