@@ -20,9 +20,13 @@ Spider Solitaire There are daily challenges for you to complete and win trophies
 
 🌈<h><b>FEATURES:</h></b>
 <h>🌵 Perfect game interface with high quality<h>
+ 
 🌵 Enlarged version that will do no harm to eyes
+ 
 🌵 Simple operation, each step can be completed by clicking or dragging
+ 
 🌵 Tap to automatically choose the best move
+ 
 🌵 right or Left handed mode
 🌵 Undo freely
 🌵 Time, move,statistics
