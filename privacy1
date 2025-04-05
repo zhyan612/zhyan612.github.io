@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <!-- 关键viewport设置：控制视口宽度与设备一致，初始缩放为1 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> [[2, 10, 20]]
+    <title>移动端适配示例</title>
+    <style>
+        /* 基础样式：使用rem单位 */
+        html {
+            font-size: 16px; /* 默认字体大小 */
+        }
+        /* 媒体查询适配不同屏幕尺寸 */
+        @media screen and (max-width: 480px) {
+            html {
+                font-size: 14px; /* 小屏幕调整基准字体 */
+            }
+            .nav {
+                flex-direction: column; /* 手机端导航垂直排列 */
+            }
+        }
+        /* 弹性布局容器 */
+        .container {
+            width: 100%;
+            max-width: 640px; /* 限制最大宽度 */
+            margin: 0 auto;
+            padding: 1rem;
+        }
+        /* 响应式图片 */
+        img {
+            width: 100%;  /* 图片宽度自适应 */
+            height: auto; /* 避免失真 */
+        } [[2, 6]]
+        /* 导航栏样式 */
+        .nav {
+            display: flex;
+            gap: 1rem;
+            padding: 0.5rem;
+            background: #f0f0f0;
+        }
+        /* 移动端隐藏复杂元素 */
+        .desktop-only {
+            display: none;
+        } [[6, 18]]
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="nav">
+            <a href="#home">首页</a>
+            <a href="#about">关于</a>
+            <span class="desktop-only">电脑端专属</span>
+        </nav>
+        
+        <h1>响应式标题</h1>
+        <img src="placeholder.jpg" alt="示例图片">
+        <p style="font-size: 1.2rem;">使用rem单位的文本会根据屏幕自动缩放</p>
+    </div>
+
+    <!-- 动态rem适配脚本 -->
+    <script>
+        // 动态设置html字体大小（可选）
+        document.documentElement.style.fontSize = 
+            document.documentElement.clientWidth / 10 + 'px'; [[1, 8, 14]]
+    </script>
+</body>
+</html>
