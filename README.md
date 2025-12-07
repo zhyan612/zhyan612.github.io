@@ -29,7 +29,7 @@ In a busy world, we aim to create digital sanctuaries where players can unwind, 
   - Minimalist art style
   - Relaxing background music
 
-[[Download on Google Play](https://play.google.com/store/apps/dev?id=5529646241521856750)](#)
+[[Download on Google Play](https://play.google.com/store/apps/dev?id=5529646241521856750)]
 
 ---
 
