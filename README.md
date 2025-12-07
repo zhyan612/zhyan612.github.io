@@ -2,7 +2,8 @@
 
 <div align="center">
 
-### Crafting Moments of Joy for Casual Players
+## Crafting Moments of Joy for Casual Players
+
 *(Dedicated to bringing happiness to casual gamers everywhere)*
 
 </div>
